@@ -1,2 +1,2 @@
 # newbie_repo
-Just a first repository on Github.
+This is just a repository to play around with as I learn about GitHub. Few simples codes will be placed here just for fun.
